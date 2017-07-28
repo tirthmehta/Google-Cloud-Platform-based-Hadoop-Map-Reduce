@@ -1,0 +1,4 @@
+Name: TIRTH RAJEN MEHTAUSC ID: 1979779802News site crawled: latimes.comFetch Statistics================# fetches attempted:20000# fetches succeeded:19307# fetches aborted:686# fetches failed:7Outgoing URLs:==============Total URLs extracted:1199955# unique URLs extracted:151207# unique URLs within News Site:127093# unique URLs outside News Site:24114Status Codes:=============200 OK:19307301 Moved Permanently:679
+302 Found (Moved Temporarily):7404 Not Found:3
+429 Too Many Requests:1
+503 Service Unavailable:3File Sizes:===========10KB ~ <100KB:1514100KB ~ <1MB:17755>= 1MB:38Content Types:==============text/html:19307
